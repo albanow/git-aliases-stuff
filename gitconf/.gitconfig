@@ -1,0 +1,14 @@
+[user]
+	name = Albano Peña-Torres
+	email = albanow10@gmail.com
+[core]
+	editor = nano
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+	cob = checkout -b
+	sts = status -s
+	rename = branch -m
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit
